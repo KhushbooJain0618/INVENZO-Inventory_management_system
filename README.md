@@ -126,9 +126,6 @@ For any queries, suggestions, or collaborations, feel free to reach out:
 | 👤 Name            | 💼 Role         | 🌐 Contact                                |
 |--------------------|----------------|-------------------------------------------|
 | **Khushboo Jain**  | Project Lead   | [LinkedIn](https://www.linkedin.com/in/khushboo-jain-7003a3301/) |
-| Ishleen Kaur       | Developer      | —                                         |
-| Gurleen Kaur       | Developer      | —                                         |
-| Liza               | Developer      | —                                         |
 
 
 ⭐ Star this repository if you found it useful.
