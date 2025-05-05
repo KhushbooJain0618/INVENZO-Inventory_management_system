@@ -121,7 +121,6 @@ For any queries, suggestions, or collaborations, feel free to reach out:
 - 💼 **LinkedIn**: [linkedin.com/in/khushboo-jain-7003a3301](https://www.linkedin.com/in/khushboo-jain-7003a3301/)
 - 📸 **Instagram**: [instagram.com/khushboo_0618](https://instagram.com/khushboo_0618)
 
-## 👥 Contributors
 
 | 👤 Name            | 💼 Role         | 🌐 Contact                                |
 |--------------------|----------------|-------------------------------------------|
